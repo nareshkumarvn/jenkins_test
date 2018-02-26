@@ -1,4 +1,4 @@
-# microservices-sample-project
+# microservices-sample-project-test
 
 ### Prerequisities
   * JDK 1.8.X
